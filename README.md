@@ -2,11 +2,11 @@
 
 Project tagline.
 
-Your longer project description goes here. For help on writing a good readme, see [this exercise]().
+Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise]().
 
 ## Getting Started
 
-Instructions for using this project go here.
+Use this section to orient newcomers to your project on how to use it. Installation instrucitons? Download instructions? Viewing instructions? Add them here!
 
 ## Contributing
 
