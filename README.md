@@ -15,3 +15,7 @@ Thanks for your interest in contributing to [PROJECT]! There are many ways to co
 ## Participation Guidelines
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+
+## MozFest
+
+Join us at the [Mozilla Festival](http://mozillafestival.org/) October 28-30, 2016 at Ravensbourne College, London! We'll be meeting in person to collaborate on this project and learn from each other. Read more about our session (link to session) and [get your MozFest tickets now](https://mozillafestival.org/tickets)!
