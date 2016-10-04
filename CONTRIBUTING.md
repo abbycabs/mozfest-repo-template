@@ -12,11 +12,11 @@ Add some info on *why* people should read your contributor guidelines and *what*
 
 If your guide is long, consider adding a table of contents.
 
-* [Participation Guidelines](#participation-guidelines)
+* [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
 * [section 3]()
 
-## Participation Guidelines
+## Participation guidelines
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
 
@@ -28,10 +28,10 @@ This is a good place to link your Roadmap, GitHub Milestones, or Project so newc
 
 To help you write your own Roadmap or make issues, take a look at [this exercise]().
 
-## How to Submit Changes
+## How to submit changes
 
-## How to Report Bugs
+## How to report bugs
 
-## Communication Channels
+## Communication channels
 
 Do you have a chat room or email list you use to discuss this project? List them all here!
