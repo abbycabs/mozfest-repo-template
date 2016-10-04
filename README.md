@@ -10,7 +10,7 @@ Instructions for using this project go here.
 
 ## Contributing
 
-To contribute to [PROJECT] please see [CONTRIBUTING.md](CONTRIBUTING.md).
+Thanks for your interest in contributing to [PROJECT]! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Participation Guidelines
 
