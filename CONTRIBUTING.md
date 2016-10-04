@@ -14,7 +14,9 @@ If your guide is long, consider adding a table of contents.
 
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
-* [section 3]()
+* [How to submit changes](#how-to-submit-changes)
+* [How to report bugs](#how-to-report-bugs)
+* [Communication channels](#communication-channels)
 
 ## Participation guidelines
 
