@@ -20,6 +20,6 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## MozFest
 
-Join us at the [Mozilla Festival](http://mozillafestival.org/) October 28-30, 2016 at Ravensbourne College, London! We'll be meeting in person to collaborate on this project and learn from each other. Read more about our session (link to session) and [get your MozFest tickets now](https://mozillafestival.org/tickets)!
+Join us at the [Mozilla Festival](http://mozillafestival.org/) October 28-30, 2016 at Ravensbourne College, London! We'll be meeting in person to collaborate on this project and learn from each other. Read more about our session [link to your session] and [get your MozFest tickets now](https://mozillafestival.org/tickets)!
 
 ![screen shot 2016-10-05 at 13 49 18](https://cloud.githubusercontent.com/assets/617994/19124773/8da8a3ce-8b02-11e6-9a11-5166e5179499.png)
