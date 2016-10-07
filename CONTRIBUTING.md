@@ -26,7 +26,7 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 This is a good place to link your Roadmap, GitHub Milestones, or Project so newcomers can see what you're working on.
 
-> Take a look at the issues in our [current milestone]() or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
+> Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
 
 To help you write your own Roadmap or make issues, take a look at [this exercise]().
 
