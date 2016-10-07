@@ -1,10 +1,10 @@
 # [ Project Title ]
 
-[ Project vision or mission statement. ]
+[ Project vision or mission statement. [Tips on writing your vision]().]
 
 [ If you have one, add your logo or an image here ]
 
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](). ]
+[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](http://mozillascience.github.io/working-open-workshop/writing_readme/). ]
 
 ## Getting Started
 
