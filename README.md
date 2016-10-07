@@ -1,6 +1,6 @@
 # [ Project Title ]
 
-[ Project tagline. ]
+[ Project vision or mission statement. ]
 
 [ If you have one, add your logo or an image here ]
 
