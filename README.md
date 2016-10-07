@@ -1,4 +1,4 @@
-# [ Project Title ]
+# My Awesome Project
 
 [ Project vision or mission statement. [Tips on writing your vision]().]
 
