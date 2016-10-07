@@ -8,7 +8,7 @@
 
 ## Getting Started
 
-[ Use this section to orient newcomers to your project on how to use it. Installation instrucitons? Download instructions? Viewing instructions? Example code snippet? Add them here! ]
+[ Use this section to orient newcomers to your project on how to use it. Installation or download instructions? Viewing instructions? Example code snippet? Add them here! ]
 
 ## Contributing
 
