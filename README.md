@@ -22,4 +22,4 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 Join us at the [Mozilla Festival](http://mozillafestival.org/) October 27-29, 2017 at Ravensbourne College, London! We'll be meeting in person to collaborate on this project and learn from each other. Read more about our session [link to your session] and [get your MozFest tickets now](https://mozillafestival.org/tickets)!
 
-<img width="1196" alt="screen shot 2017-10-02 at 5 51 29 pm" src="https://user-images.githubusercontent.com/617994/31101135-5b414a02-a79a-11e7-9665-1a8db9ffd1e0.png">
+<img width="352" alt="mozilla-festival_lockup-black" src="https://user-images.githubusercontent.com/617994/31743944-cedd2278-b411-11e7-9229-b5ce5ce5588b.png">
