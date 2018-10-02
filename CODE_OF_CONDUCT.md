@@ -1,20 +1,21 @@
-Use the MozFest participation guidelines below, or write your own Code of Coduct [using this exercise]().
+Use the MozFest participation guidelines below, or choose your own Code of Coduct [using this exercise](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/).
 
 ---
-
 <!--- MOZFEST PARTICIPATION GUIDLINES --->
 # Participation Guidelines
 
-This project, participating in the Mozilla Festival, respects Mozilla's [community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). These guidelines cover our behaviour as participants, facilitators, space wranglers, staff, volunteers, vendors, and anyone else involved in making the MozFest possible.
+This project, participating in Mozilla Open Leaders respects Mozilla's [community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). These guidelines cover our behaviour as participants, mentors, experts, staff, volunteers, and anyone else involved in making Mozilla Open Leaders possible.
 
 ## How to treat each other
 
-* Be respectful and welcoming
-* Try to understand different perspectives
-* Do not threaten violence
-* Empower others
-* Strive for excellence
-* Don’t expect to agree with every decision
+* Be respectful and value each other’s ideas, styles and viewpoints.
+* Be direct but professional; we cannot withhold hard truths.
+* Be inclusive and help new perspectives be heard.
+* Appreciate and accommodate our many cultural practices, attitudes and beliefs.
+* Be open to learning from others.
+* Lead by example and match your actions with your words.
+
+The following will not be tolerated: violence and threats of violence; personal attacks; derogatory language; unwelcome sexual attention or physical contact; disruptive behaviour; influencing unacceptable behaviour.
 
 ## Inclusion and Diversity
 
@@ -24,17 +25,8 @@ We welcome contributions from everyone as long as they interact constructively w
 
 Mozilla-based activities should be inclusive and should support such diversity.
 
-## Raising Issues at MozFest
+## Raising Issues
 
-If you believe you‘re experiencing practices at MozFest which don‘t meet the above policies, or if you feel you are being harassed in any way, please immediately contact the Festival Producer, Sarah Allen.
-
-At the festival venue, contact the info desk and they will immediately find the Festival Producer for you.
-
-MozFest organisers reserve the right to refuse admission to anyone violating these policies, and/or take further action including expulsion from the event.
-
-Email: festival@mozilla.org 
-
-## Working in the Open
-
-Because working open is one of our core values, MozFest program planning is done in the open on Github (check out our repo [here](https://github.com/MozillaFoundation/mozfest-program-2016)). We hope participants will benefit from this culture of transparency and collaboration during the Festival, and will continue to work with an open ethos in their projects after Mozfest. Learn more about [how we work open at Mozilla](https://wiki.mozilla.org/Working_open).
+If you believe you‘re experiencing practices which don‘t meet the above policies, or if you feel you are being harassed in any way, please immediately contact the project lead.
+Email: [your email]
 <!--- END MOZFEST PARTICIPATION GUIDLINES --->
